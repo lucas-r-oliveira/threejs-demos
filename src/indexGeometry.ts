@@ -1,3 +1,4 @@
+// https://dustinpfister.github.io/2022/12/09/threejs-buffer-geometry-index/
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import * as THREE from 'three';
 
